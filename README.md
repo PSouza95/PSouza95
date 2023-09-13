@@ -1,4 +1,6 @@
-# Hi there
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8806CE&height=120&section=header"/>
+
+# Hello
 
 I'm Pedro Henrique, a technology enthusiast and future software developer.
 ##
